@@ -1,0 +1,28 @@
+#presentation p {
+  text-align: justify;
+  font-size: 0.9em;
+}
+
+.slide > div {
+  margin-left: 2%;
+  margin-right: 2%;
+  width: 96%;
+}
+
+.slideOut {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute;
+}
+
+h3 {
+  color: #b00 !important;
+}
+
+#titulo {
+  color: #00b;
+}
+/*
+.justify {
+  width: 100%;
+  text-align: center;
+}
